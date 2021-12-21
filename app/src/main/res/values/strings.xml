@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Submission3</string>
+    <string name="user_location">Location</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Username</string>
+    <string name="Username">Username</string>
+    <string name="Location">-</string>
+    <string name="Company">\@company</string>
+    <string name="Name">\@Name</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="location">Location :</string>
+    <string name="company">company:</string>
+    <string name="Repository">-</string>
+    <string name="repository">Repository :</string>
+    <string name="user_username">username</string>
+    <string name="label_MainActivity">GitHub</string>
+    <string name="label_DetailActivity">Detail</string>
+    <string name="share">share</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="label_FavoriteActivity">Your Favorite</string>
+    <string name="label_SettingActivity">Setting</string>
+    <string name="Show">Show</string>
+    <string name="logo">Logo</string>
+    <string name="photo_profile">photo profile</string>
+    <string name="favorite">favorite</string>
+</resources>
